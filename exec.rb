@@ -6,3 +6,4 @@ fizzbuzz = Fizzbuzz.new
   puts fizzbuzz.calculate number
 end
 1212
+贺
